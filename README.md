@@ -2,7 +2,7 @@
 
 [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mqteooo317/vps-meter)
 [![Author](https://img.shields.io/badge/Author-mateo-000000?style=for-the-badge&logo=github)](https://github.com/mqteooo317)
-[![Discord](https://img.shields.io/badge/Discord-mateo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mateo)
+[![Discord](https://img.shields.io/badge/Discord-mateo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1279870617197482055)
 
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](LICENSE)
